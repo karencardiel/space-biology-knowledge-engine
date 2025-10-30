@@ -4,7 +4,7 @@ import os
 # Rutas a tus CSV
 CLEANED_CSV = "../../data/cleaned_articles.csv"
 GENERATED_CSV = "../../data/generated_abstracts.csv"
-FINAL_CSV = "../../data/final_dataset.csv"
+FINAL_CSV = "../../data/final_merged.csv"
 LOG_FILE = "../../data/merge_log.txt"
 
 # Leer CSV
