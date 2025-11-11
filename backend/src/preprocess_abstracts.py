@@ -29,6 +29,10 @@ print("📄 Cargando dataset...")
 df = pd.read_csv(DATA_PATH)
 print(f"Dataset cargado con {len(df)} artículos")
 
+# Eliminar duplicados basados en el link
+df.drop_duplicates(subset=['link'], keep='first', inplace=True)
+print(f"Dataset después de eliminar duplicados: {len(df)} artículos")
+
 # Eliminar columna source si existe
 if "source" in df.columns:
     df = df.drop(columns=["source"])
