@@ -8,10 +8,6 @@ nltk
 # Algoritmo Apriori
 mlxtend
 
-# Serialización (Aunque pickle es estándar, a veces es bueno listar librerías que manejan binarios)
-# (Opcional, pero incluido para claridad)
-pickle 
-
 # API (Para el próximo paso: api.py)
 # Necesitamos estas para crear el servidor web que sirve los resultados
 fastapi
