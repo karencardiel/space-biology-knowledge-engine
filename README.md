@@ -3,12 +3,6 @@
 
 **Barkedlogy** es una plataforma web inteligente que facilita la exploración de 572 artículos científicos de NASA sobre biología espacial. Utilizando técnicas avanzadas de minería de datos, el sistema organiza automáticamente los artículos en 19 categorías temáticas y descubre conexiones entre conceptos científicos.
 
-### Problema que resuelve
-
-- **Antes:** Encontrar información específica tomaba más de 30 minutos
-- **Ahora:** Búsquedas en menos de 2 minutos
-- **Beneficio:** Sistema de sugerencias inteligentes que muestra términos relacionados
-
 ## 💧 Vista Previa
  <p align="center">
   <a href="https://ramirochay.github.io/Barkedlogy_Searcher/" target="_blank">
@@ -209,3 +203,4 @@ Barkedlogy_Searcher/
 <p align="center">
   <img width="464" height="91" alt="logo_largo" src="https://github.com/user-attachments/assets/c60408db-ee66-41fd-bd62-f8cd75c38934" />
 </p>
+
