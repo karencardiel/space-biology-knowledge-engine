@@ -195,7 +195,7 @@ Barkedlogy_Searcher/
 ---
 ## 💧 Código del Proyecto
 
-- [Limpieza de datos y Machine Learning](https://github.com/karencardiel/space-biology-knowledge-engine/tree/feat/bradrobles)
+- [Limpieza de datos y Machine Learning](https://github.com/karencardiel/space-biology-knowledge-engine)
 - [Interfaz web (Frontend)](https://github.com/RamiroChay/Barkedlogy_Searcher)
   
 ---
@@ -203,4 +203,5 @@ Barkedlogy_Searcher/
 <p align="center">
   <img width="464" height="91" alt="logo_largo" src="https://github.com/user-attachments/assets/c60408db-ee66-41fd-bd62-f8cd75c38934" />
 </p>
+
 
